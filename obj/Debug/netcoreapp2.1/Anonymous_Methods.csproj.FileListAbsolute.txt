@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\bin\Debug\netcoreapp2.1\Anonymous_Methods.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\bin\Debug\netcoreapp2.1\Anonymous_Methods.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\bin\Debug\netcoreapp2.1\Anonymous_Methods.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\bin\Debug\netcoreapp2.1\Anonymous_Methods.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\bin\Debug\netcoreapp2.1\Anonymous_Methods.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Anonymous_Methods\obj\Debug\netcoreapp2.1\Anonymous_Methods.pdb
